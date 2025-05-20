@@ -5,7 +5,7 @@ Interests:\
     * Language Learning\
     * Hiking, Backpacking
 ## Technical Background
-My technical background is fairly broad but not yet too deep. I have studied C programming as well as Java and MatLAB for school, and I have studied a multitude of technical things outside of school.
+My technical background is fairly broad but not yet too deep. I have studied C programming as well as Java and MatLAB for school, and I have studied a multitude of technical things outside of school.\
     * C, C++, C#\
     * MatLAB, R, Python, Java\
     * LabVIEW, JustBASIC, Ladder Logic\
@@ -20,5 +20,5 @@ I don't know for sure what my 'favorite meme' is, but I presume that we are show
 [Click here if you dare](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 Told you...
-
+Here's a picture of some trees I found online for free to make you feel better. Can't believe you fell for that man. Rookie mistake...
 ![Some pretty trees I found online. Hopefully this helps you heal from your self-inflicted wounds.](https://images.freeimages.com/image/previews/539/nature-tree-pack-5691310.jpg)
